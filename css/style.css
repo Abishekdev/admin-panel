@@ -1,0 +1,41 @@
+
+body{
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    font-family: 'Josefin Sans', sans-serif !important;
+}
+.col-sm-2{
+    background-color: rgb(48, 48, 48);
+}
+.col-sm-10{
+    background-color: rgb(44, 44, 44);
+    width: %;
+    
+}
+.h1-dashbord{
+    margin-top: 20px;
+    margin-left:10px;
+    margin-bottom: 20px;
+    color: whitesmoke;
+}
+#p{
+    color: white;
+    margin-left: 25px;
+    padding-top: 2px;
+    font-size: 20px;
+}
+hr{
+    color: white;
+    background-color: white;
+}
+.box-1{
+    background: linear-gradient(to bottom right,#ff3d27,#f5af19);
+    height: 200px;
+    border-radius: 10px;
+    margin-right:15px !important;
+}
+.box-1 h2{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+    font-family: 'Baloo Bhai 2', cursive;
+}
